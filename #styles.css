@@ -1,0 +1,27 @@
+<style > body {
+  background-color: lightgray;
+}
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgray;
+  color: white;
+  text-align: center;
+}
+.main {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 550px;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
